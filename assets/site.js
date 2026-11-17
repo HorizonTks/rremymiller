@@ -20,3 +20,5 @@ if(search&&cards.length){
   filters.forEach(button=>button.addEventListener('click',()=>{category=button.dataset.filter;filters.forEach(item=>{const active=item===button;item.classList.toggle('active',active);item.setAttribute('aria-pressed',String(active));});updateCatalogue();}));
   search.addEventListener('input',updateCatalogue);
 }
+const topBand=(()=>{let band=document.querySelector('.top-band');if(!band){band=document.createElement('div');band.className='top-band';band.innerHTML='<a class="top-link" href="#top">↑ Top of page</a>';const footer=document.querySelector('footer');if(footer)footer.before(band);}return band;})();
+if(topBand){if(!document.getElementById('top'))document.body.id='top';const checkTop=()=>{topBand.hidden=document.documentElement.scrollHeight<=window.innerHeight*2.2;};checkTop();window.addEventListener('resize',checkTop);}
