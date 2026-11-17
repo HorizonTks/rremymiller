@@ -1,0 +1,191 @@
+[
+  {
+    "id": "unraveling-darkness",
+    "title": "Unraveling Darkness",
+    "category": "Novels & Worlds",
+    "status": "Novel in development",
+    "subtitle": "The Spiral Chronicles · Book I",
+    "description": "In Altearth, memory, power, and the fierce insistence of the individual meet in an epic fantasy of transformation. The opening book of The Spiral Chronicles invites readers into a world where what is remembered can change what becomes possible.",
+    "art": "spiral"
+  },
+  {
+    "id": "greystone-dorian",
+    "title": "Greystone: Dorian",
+    "category": "Novels & Worlds",
+    "status": "Novel in development",
+    "subtitle": "Greystone · Book I",
+    "description": "A gothic world of family legacy, ancient magic, intimacy, and gathering danger. Dorian begins the Greystone quadrilogy, a literary world also being developed for the screen.",
+    "art": "greystone"
+  },
+  {
+    "id": "grynkie-treasury",
+    "title": "The Grynkie Treasury",
+    "category": "Novels & Worlds",
+    "status": "In development",
+    "subtitle": "The Wonderful World of Grynkie",
+    "description": "Small beings. Unexpected courage. A wonderfully large capacity for kindness. Grynkie’s world celebrates curiosity, friendship, mischief, and the quiet magic of little things. Book I is being prepared toward a full-color hardcover proof.",
+    "art": "grynkie"
+  },
+  {
+    "id": "markham",
+    "title": "Markham",
+    "category": "Philosophy & Essays",
+    "status": "Ongoing project",
+    "subtitle": "Ideas in conversation",
+    "description": "An encounter with consciousness, perception, and the possibilities of being. Markham brings philosophical inquiry into conversation, opening familiar certainties to unfamiliar questions. Explore the developing conversations at MarkhamIdeas.org.",
+    "art": "markham"
+  },
+  {
+    "id": "remembering-youre-extraordinary",
+    "title": "Remembering You’re Extraordinary",
+    "category": "Philosophy & Essays",
+    "status": "New edition in development",
+    "subtitle": "A life of possibility",
+    "description": "An invitation to recognize the worth, resilience, and possibility already present within a human life. The original work and its substantially reimagined second edition belong to one continuing book, with a literary home at The Rye House.",
+    "art": "rye"
+  },
+  {
+    "id": "where-hearts-abide",
+    "title": "Where Hearts Abide",
+    "category": "Poetry",
+    "status": "Collection in development",
+    "subtitle": "Poetry of love, memory, and belonging",
+    "description": "A developing poetry collection. The title offers a place to begin: with the bonds we carry, the language of affection, and the traces a life leaves in another.",
+    "art": "poetry"
+  },
+  {
+    "id": "buttermilk-sandwitch",
+    "title": "Buttermilk Sandwitch",
+    "category": "Humor & Audio",
+    "status": "Published episodes",
+    "subtitle": "Stories with a mischievous streak",
+    "description": "A continuing series with published episodes on Substack, bringing storytelling, humor, and an unmistakably playful imagination together. Step into a world whose name is already a warning that things may not proceed quite normally.",
+    "art": "buttermilk"
+  },
+  {
+    "id": "joe-thoroughgood",
+    "title": "The Adventures of Joe Thoroughgood",
+    "category": "Humor & Audio",
+    "status": "Series in development",
+    "subtitle": "Adventure, with complications",
+    "description": "An adventure series in development. Joe Thoroughgood has a place on the author’s workbench alongside worlds of fantasy, comedy, and the unexpected.",
+    "art": "joe"
+  },
+  {
+    "id": "the-inheritor",
+    "title": "The Inheritor",
+    "category": "Short Fiction",
+    "status": "Short fiction",
+    "subtitle": "From the world of Greystone",
+    "description": "A short work belonging to the Greystone world. It offers another doorway into the family legacy and gothic atmosphere that underpin the larger book and screen project.",
+    "art": "greystone"
+  },
+  {
+    "id": "the-widows-gift",
+    "title": "The Widow’s Gift",
+    "category": "Short Fiction",
+    "status": "Short fiction",
+    "subtitle": "A story by R Remy Miller",
+    "description": "A work of short fiction within R Remy Miller’s wider literary catalogue. Reading and publication links will accompany the work when publicly available.",
+    "art": "poetry"
+  },
+  {
+    "id": "sovereign-authors",
+    "title": "A World of Sovereign Authors",
+    "category": "Short Fiction",
+    "status": "Short fiction",
+    "subtitle": "Speculative fiction",
+    "description": "A speculative story from the author’s growing body of short fiction, exploring the worlds that open when imagination encounters questions of sovereignty.",
+    "art": "spiral"
+  },
+  {
+    "id": "heinous-shadows",
+    "title": "Heinous Shadows",
+    "category": "Short Fiction",
+    "status": "Short fiction",
+    "subtitle": "Dark imaginings",
+    "description": "A short work from the darker side of the catalogue. R Remy Miller’s fiction moves between the mysterious, the speculative, and the deeply human.",
+    "art": "greystone"
+  },
+  {
+    "id": "anatomy-of-silence",
+    "title": "The Anatomy of Silence",
+    "category": "Short Fiction",
+    "status": "Short fiction",
+    "subtitle": "A Chronicle Tale",
+    "description": "A Chronicle Tale in the author’s short-fiction catalogue, alongside the longer mythic and speculative worlds.",
+    "art": "spiral"
+  },
+  {
+    "id": "trouble-with-time",
+    "title": "The Trouble With Time",
+    "category": "Short Fiction",
+    "status": "Short fiction",
+    "subtitle": "Fiction, with a temporal complication",
+    "description": "A short story in the catalogue of R Remy Miller. One more encounter with the possibilities that open when ordinary certainty becomes a little less certain.",
+    "art": "markham"
+  },
+  {
+    "id": "story-standing",
+    "title": "The Story Standing in Front of the World",
+    "category": "Novels & Worlds",
+    "status": "Developing project",
+    "subtitle": "A named work on the horizon",
+    "description": "A developing literary project. Its title has a place in the catalogue while its form and fuller public introduction take shape.",
+    "art": "rye"
+  },
+  {
+    "id": "where-the-words-had-been",
+    "title": "Where the Words Had Been",
+    "category": "Poetry",
+    "status": "Poem",
+    "subtitle": "Selected poetry",
+    "description": "One of the poems in R Remy Miller’s growing body of verse, alongside Love Leaves Traces and What Children Know.",
+    "art": "poetry"
+  },
+  {
+    "id": "love-leaves-traces",
+    "title": "Love Leaves Traces",
+    "category": "Poetry",
+    "status": "Poem",
+    "subtitle": "Selected poetry",
+    "description": "A poem by R Remy Miller, included in the author’s poetry catalogue.",
+    "art": "poetry"
+  },
+  {
+    "id": "what-children-know",
+    "title": "What Children Know",
+    "category": "Poetry",
+    "status": "Poem",
+    "subtitle": "Selected poetry",
+    "description": "A poem by R Remy Miller, included in the author’s poetry catalogue.",
+    "art": "grynkie"
+  },
+  {
+    "id": "velvetfire",
+    "title": "VelvetFire",
+    "category": "Multimedia",
+    "status": "In development",
+    "subtitle": "Voice, intimacy, and imagination",
+    "description": "An experimental voice-led project exploring intimacy, sovereignty, and the possibilities of storytelling across media.",
+    "art": "velvet"
+  },
+  {
+    "id": "love-and-hope",
+    "title": "Messages of Love & Hope",
+    "category": "Philosophy & Essays",
+    "status": "Ongoing writing",
+    "subtitle": "A little more light in the world",
+    "description": "Short reflections in good cheer, human possibility, compassion, and the ordinary ways we can make life gentler for one another. Follow the author’s public writing on Substack.",
+    "art": "rye"
+  },
+  {
+    "id": "reclaiming-ai",
+    "title": "Reclaiming AI",
+    "category": "Philosophy & Essays",
+    "status": "Essay series",
+    "subtitle": "People, meaning, and emerging intelligence",
+    "description": "An essay series considering AI through human purpose, relationship, and the possibilities of creative and intellectual partnership. Related professional work lives at Horizon Technologys.",
+    "art": "markham"
+  }
+]
