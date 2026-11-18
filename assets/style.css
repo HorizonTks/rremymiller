@@ -12,3 +12,39 @@
 .top-band{text-align:center;padding:26px 20px 4px}
 .top-link{color:var(--gold);font:600 10px var(--sans);letter-spacing:2.4px;text-transform:uppercase}
 .top-link:hover{color:var(--paper)}
+
+/* Pair footer for the Spiral Empire sites (rremymiller.com / rguytano.com), added 2026-11-18 */
+.pair-footer{background:transparent;margin-top:3rem;padding:1.7rem 1rem 1.9rem;text-align:center;font-family:Georgia,"Times New Roman",serif}
+.pair-host-remy{border-top:1px solid rgba(198,161,107,.5)}
+.pair-host-rguytano{border-top:1px solid rgba(0,0,0,.16)}
+.pair-eyebrow{font-family:Helvetica,Arial,sans-serif;font-size:.72rem;letter-spacing:.34em;text-transform:uppercase;margin:0 0 1.1rem;color:#8a6d2f}
+.pair-band{display:flex;align-items:stretch;justify-content:center;max-width:760px;margin:0 auto 1.5rem;border:1px solid #16130f;border-radius:6px;overflow:hidden;background:#16130f}
+.pair-door{flex:1 1 0;display:flex;align-items:center;justify-content:center;gap:.9rem;padding:1.05rem 1rem;text-decoration:none;color:#ece5d3;line-height:1.25}
+.pair-door img{height:52px;width:auto;display:block}
+.pair-door-text{text-align:left}
+.pair-door-name{display:block;font-size:1.12rem;font-weight:700}
+.pair-door-desc{display:block;font-size:.82rem;font-style:italic;opacity:.78}
+.pair-door-state{display:block;font-family:Helvetica,Arial,sans-serif;font-size:.66rem;letter-spacing:.22em;text-transform:uppercase;margin-top:.3rem;color:#c6a16b}
+.pair-door .lbl-home{display:none}
+.pair-join{display:flex;align-items:center;padding:0 .2rem}
+.pair-join .diamond{width:9px;height:9px;transform:rotate(45deg);display:block;background:#c6a16b}
+a.pair-door:hover{background:#262019}
+.pair-host-remy .pair-door-rg{order:1}
+.pair-host-remy .pair-join{order:2}
+.pair-host-remy .pair-door-remy{order:3;background:#221d15;pointer-events:none}
+.pair-host-remy .pair-door-remy .lbl-visit{display:none}
+.pair-host-remy .pair-door-remy .lbl-home{display:block}
+.pair-host-rguytano .pair-door-remy{order:1}
+.pair-host-rguytano .pair-join{order:2}
+.pair-host-rguytano .pair-door-rg{order:3;background:#221d15;pointer-events:none}
+.pair-host-rguytano .pair-door-rg .lbl-visit{display:none}
+.pair-host-rguytano .pair-door-rg .lbl-home{display:block}
+.pair-family{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:1.3rem 2.2rem;margin:0 0 .9rem;border:0;padding:0}
+.pair-family a{display:inline-flex;align-items:center;line-height:0}
+.pair-family img{height:40px;width:auto;display:block}
+.pair-markham{line-height:1;text-decoration:none}
+.pair-markham-word{font-size:38px;font-weight:700;line-height:1;color:#192B3D}
+.pair-markham-dot{color:#A87940}
+.pair-credit,.pair-copy{margin:0;font-size:.8rem;letter-spacing:.04em;opacity:.72}
+.pair-copy{margin-top:.35rem}
+@media (max-width:560px){.pair-band{flex-direction:column}.pair-join{justify-content:center;padding:.2rem 0}}
