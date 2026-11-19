@@ -48,3 +48,7 @@ a.pair-door:hover{background:#262019}
 .pair-credit,.pair-copy{margin:0;font-size:.8rem;letter-spacing:.04em;opacity:.72}
 .pair-copy{margin-top:.35rem}
 @media (max-width:560px){.pair-band{flex-direction:column}.pair-join{justify-content:center;padding:.2rem 0}}
+/* Pair footer: light ground below the band (ruled 2026-11-18) */
+.pair-family{background:#F7F5F4;max-width:760px;margin:0 auto;padding:1.05rem 1rem .5rem;border-radius:6px 6px 0 0}
+.pair-credit{background:#F7F5F4;max-width:760px;margin:0 auto;padding:.1rem 1rem 0;color:#3a352c}
+.pair-copy{background:#F7F5F4;max-width:760px;margin:0 auto;padding:.35rem 1rem 1.05rem;border-radius:0 0 6px 6px;color:#3a352c}
